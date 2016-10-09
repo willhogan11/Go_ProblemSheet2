@@ -6,7 +6,7 @@
 
 package main
 
-import "gopkg.in/macaron.v1"
+import "gopkg.in/macaron.v1"    
 
 func main() {
     m := macaron.Classic()
